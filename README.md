@@ -21,7 +21,7 @@ How many accounts belong to each category?
 
 ## 📂 Project Files
 
-coders-of-bangalore.ipynb – The main Jupyter Notebook containing:
+instagram-analysis.ipynb – The main Jupyter Notebook containing:
 
 Python (without external libraries) 
 
