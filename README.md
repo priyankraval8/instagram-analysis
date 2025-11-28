@@ -9,10 +9,14 @@ This project is based on a fictional challenge where My Mentor tasks Me to colle
 ### 📌 Key Questions Answered
 
 Who has the maximum number of posts?
+
 Who has the maximum number of followers?
+
 Who follows the most people?
+
 How many Instagram account categories exist?
 (Digital Creator, Non-Profit, Personal Blog, Artist, Entrepreneur, etc.)
+
 How many accounts belong to each category?
 
 ## 📂 Project Files
@@ -20,8 +24,11 @@ How many accounts belong to each category?
 coders-of-bangalore.ipynb – The main Jupyter Notebook containing:
 
 Python (without external libraries) 
+
 Data cleaning & collection logic
+
 Exploratory data analysis
+
 Final answers & insights
 
 data/ – Raw dataset extracted from Instagram
@@ -33,9 +40,13 @@ README.md – Project documentation
 The notebook computes:
 
 Top user by posts count
+
 Top user by followers
+
 Top user by following
+
 Total category types
+
 Category-wise distribution of accounts
 
 ## 📜 Disclaimer
